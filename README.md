@@ -4,8 +4,5 @@ Just wanna post some projects I have finished on the github.
 
 Happy Learning!
 
-# Spring Guru Course Learning 
-URL: https://www.udemy.com/course/spring-framework-5-beginner-to-guru
-## Repos: 
-### Section 2: Building a Spring Boot Web App - spring5webapp
-### Section 3: Dependency Injection with Spring - sfg-di
+AWS Certificate Notes:
+https://www.notion.so/AWS-CERTIFICATES-Notes-626c70d8bdac47dcbad55c524d630078?pvs=4
